@@ -8,7 +8,7 @@ Exercícios do curso introdutório Alura/Oracle Next Education, incluindo opera�
 
 ## Funcionalidades e utilização
 
-Execute Main; as classes de br.primeiropackage preservam os exercícios individuais.
+O arquivo src/Main.java está vazio; execute br.primeiropackage.Estudos; as classes de br.primeiropackage preservam os exercícios individuais.
 
 ## Como executar
 
@@ -16,7 +16,7 @@ Execute Main; as classes de br.primeiropackage preservam os exercícios individu
 git clone https://github.com/EuGeanCarlos/Curso_Java_criando_a_sua_primeira_aplicacao.git
 cd Curso_Java_criando_a_sua_primeira_aplicacao
 javac -encoding UTF-8 -d out src/Main.java src/br/primeiropackage/Estudos.java src/br/primeiropackage/Perfil.java src/br/primeiropackage/Soma.java src/br/primeiropackage/Subtracao.java
-java -cp out Main
+java -cp out br.primeiropackage.Estudos
 ```
 
 Requer JDK 17 ou superior. Os exercícios executam no terminal.
