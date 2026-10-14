@@ -51,3 +51,7 @@ Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue
 [GitHub](https://github.com/EuGeanCarlos)
 
 Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+## Validação desta auditoria — 14/10/2026
+
+Sem publicação nova confirmada. Todos os fontes Java compilaram; br.primeiropackage.Estudos executou. src/Main.java está vazio.
